@@ -1,0 +1,28 @@
+# Blender backup files
+*.blend1
+*.blend2
+*.blend3
+*.blend@
+
+# Autosave files
+*.blend.tmp
+
+# Thumbnails and previews
+*.png
+*.jpg
+*.jpeg
+
+# Cache and temp folders
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.bak
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
