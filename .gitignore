@@ -8,7 +8,7 @@
 *.blend.tmp
 
 # Thumbnails and previews
-*.png
+#*.png
 *.jpg
 *.jpeg
 
