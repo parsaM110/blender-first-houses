@@ -1,5 +1,12 @@
 ## my first project in blender
 
+This is my very first Blender project! It features two cozy houses surrounded by flowers and a tree, created as a practice scene to explore basic modeling, texturing, and rendering in Blender.
+
+![Render](render.png)
+
+
+
+## version  management flow
 use `git lfs` for blender:
 ```
 git lfs install
